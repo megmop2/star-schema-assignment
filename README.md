@@ -2,6 +2,9 @@
 
 This project demonstrates the design of a star schema for a clinical data warehouse. It was completed as part of a cloud computing course assignment.
 
+## Note on Data
+This project was built using a simulated EMR schema provided in a university course. Due to privacy and access restrictions, the actual data is not included. The SQL code demonstrates schema creation and design, not live execution results.
+
 ## Project Contents
 
 - **Assignment_1.sql** – SQL script for creating the dimension and fact tables, with appropriate primary and foreign key constraints.
